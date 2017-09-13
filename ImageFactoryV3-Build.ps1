@@ -175,8 +175,8 @@ Function Update-Log
 
 #Inititial Settings
 Clear-Host
-$Log = "C:\Setup\ImageFactoryV3ForHyper-V\log.txt"
-$XMLFile = "C:\setup\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml"
+$Log = "C:\Scripts\ImageFactoryV3ForHyper-V\log.txt"
+$XMLFile = "C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml"
 $Solution = "IMF32"
 Update-Log -Data "Imagefactory 3.2 (Hyper-V)"
 Update-Log -Data "Logfile is $Log"
@@ -189,7 +189,8 @@ if($TestMode -eq $True){
 #Importing modules
 Update-Log -Data "Importing modules"
 Import-Module 'C:\Program Files\Microsoft Deployment Toolkit\Bin\MicrosoftDeploymentToolkit.psd1' -ErrorAction Stop -WarningAction Stop
-Import-Module C:\Setup\PsIni\PsIni.psm1 -ErrorAction Stop -WarningAction Stop
+Import-Module 'C:\Program Files\WindowsPowerShell\Modules\PsIni'
+
 
 #Read Settings from XML
 Update-Log -Data "Reading from $XMLFile"
@@ -425,11 +426,11 @@ Invoke-Command -ComputerName $($Settings.Settings.HyperV.Computername) -ScriptBl
     foreach($property in ($Data.content.properties) ){
         $Hash =  [ordered]@{ 
             Name = $($property.Name); 
-            PercentComplete = $($property.PercentComplete.’#text’); 
-            Warnings = $($property.Warnings.’#text’); 
-            Errors = $($property.Errors.’#text’); 
+            PercentComplete = $($property.PercentComplete); 
+            Warnings = $($property.Warnings); 
+            Errors = $($property.Errors); 
             DeploymentStatus = $( 
-            Switch($property.DeploymentStatus.’#text’){ 
+            Switch($property.DeploymentStatus){ 
                 1 { "Active/Running"} 
                 2 { "Failed"} 
                 3 { "Successfully completed"} 
@@ -445,8 +446,8 @@ Invoke-Command -ComputerName $($Settings.Settings.HyperV.Computername) -ScriptBl
             VMHost = $($property.VMHost.'#text');
             VMName = $($property.VMName.'#text');
             LastTime = $($property.LastTime.'#text') -replace "T"," ";
-            StartTime = $($property.StartTime.’#text’) -replace "T"," "; 
-            EndTime = $($property.EndTime.’#text’) -replace "T"," "; 
+            StartTime = $($property.StartTime) -replace "T"," "; 
+            EndTime = $($property.EndTime) -replace "T"," "; 
             }
         New-Object PSObject -Property $Hash
         }
@@ -515,11 +516,11 @@ Invoke-Command -ComputerName $($Settings.Settings.HyperV.Computername) -ScriptBl
     foreach($property in ($Data.content.properties) ){
         $Hash =  [ordered]@{ 
             Name = $($property.Name); 
-            PercentComplete = $($property.PercentComplete.’#text’); 
-            Warnings = $($property.Warnings.’#text’); 
-            Errors = $($property.Errors.’#text’); 
+            PercentComplete = $($property.PercentComplete); 
+            Warnings = $($property.Warnings); 
+            Errors = $($property.Errors); 
             DeploymentStatus = $( 
-            Switch($property.DeploymentStatus.’#text’){ 
+            Switch($property.DeploymentStatus){ 
                 1 { "Active/Running"} 
                 2 { "Failed"} 
                 3 { "Successfully completed"} 
@@ -535,8 +536,8 @@ Invoke-Command -ComputerName $($Settings.Settings.HyperV.Computername) -ScriptBl
             VMHost = $($property.VMHost.'#text');
             VMName = $($property.VMName.'#text');
             LastTime = $($property.LastTime.'#text') -replace "T"," ";
-            StartTime = $($property.StartTime.’#text’) -replace "T"," "; 
-            EndTime = $($property.EndTime.’#text’) -replace "T"," "; 
+            StartTime = $($property.StartTime) -replace "T"," "; 
+            EndTime = $($property.EndTime) -replace "T"," "; 
             }
         New-Object PSObject -Property $Hash
         }

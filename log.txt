@@ -234,3 +234,167 @@ IMF32, Cleanup MDT Monitoring data, Information, 03/25/2017 15:05:11
 IMF32, Show the WIM's, Information, 03/25/2017 15:05:11
 IMF32, Could not find D:\MDTBuildLab\Captures\REFW10X64-001.wim, something went wrong, sorry, Warning, 03/25/2017 15:05:11
 IMF32, The script took 0:Days 0:Hours 0:Minutes to complete., Information, 03/25/2017 15:05:11
+IMF32, Imagefactory 3.2 (Hyper-V), Information, 09/12/2017 08:20:20
+IMF32, Logfile is C:\Scripts\ImageFactoryV3ForHyper-V\log.txt, Information, 09/12/2017 08:20:20
+IMF32, XMLfile is C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/12/2017 08:20:20
+IMF32, Importing modules, Information, 09/12/2017 08:20:20
+IMF32, Imagefactory 3.2 (Hyper-V), Information, 09/12/2017 08:22:46
+IMF32, Logfile is C:\Scripts\ImageFactoryV3ForHyper-V\log.txt, Information, 09/12/2017 08:22:46
+IMF32, XMLfile is C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/12/2017 08:22:46
+IMF32, Importing modules, Information, 09/12/2017 08:22:46
+IMF32, Imagefactory 3.2 (Hyper-V), Information, 09/12/2017 08:23:32
+IMF32, Logfile is C:\Scripts\ImageFactoryV3ForHyper-V\log.txt, Information, 09/12/2017 08:23:32
+IMF32, XMLfile is C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/12/2017 08:23:32
+IMF32, Importing modules, Information, 09/12/2017 08:23:32
+IMF32, Reading from C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/12/2017 08:23:32
+IMF32, Verify Connection to DeploymentRoot, Information, 09/12/2017 08:23:32
+IMF32, Connect to MDT, Information, 09/12/2017 08:23:32
+IMF32, Connected to E:\MDTBuildLab, Information, 09/12/2017 08:23:32
+IMF32, Get MDT Settings, Information, 09/12/2017 08:23:32
+IMF32, Check if we should update the boot image, Information, 09/12/2017 08:23:32
+IMF32, Check if we should use MDTmonitoring, Information, 09/12/2017 08:23:32
+IMF32, Verify access to boot image, Information, 09/12/2017 08:23:32
+IMF32, Imagefactory 3.2 (Hyper-V), Information, 09/12/2017 08:24:17
+IMF32, Logfile is C:\Scripts\ImageFactoryV3ForHyper-V\log.txt, Information, 09/12/2017 08:24:17
+IMF32, XMLfile is C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/12/2017 08:24:17
+IMF32, Importing modules, Information, 09/12/2017 08:24:17
+IMF32, Reading from C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/12/2017 08:24:17
+IMF32, Verify Connection to DeploymentRoot, Information, 09/12/2017 08:24:17
+IMF32, Connect to MDT, Information, 09/12/2017 08:24:17
+IMF32, Connected to E:\MDTBuildLab, Information, 09/12/2017 08:24:17
+IMF32, Get MDT Settings, Information, 09/12/2017 08:24:17
+IMF32, Check if we should update the boot image, Information, 09/12/2017 08:24:17
+IMF32, Check if we should use MDTmonitoring, Information, 09/12/2017 08:24:17
+IMF32, Verify access to boot image, Information, 09/12/2017 08:24:17
+IMF32, Imagefactory 3.2 (Hyper-V), Information, 09/13/2017 10:44:39
+IMF32, Logfile is C:\Scripts\ImageFactoryV3ForHyper-V\log.txt, Information, 09/13/2017 10:44:39
+IMF32, XMLfile is C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/13/2017 10:44:39
+IMF32, Importing modules, Information, 09/13/2017 10:44:39
+IMF32, Reading from C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/13/2017 10:44:39
+IMF32, Verify Connection to DeploymentRoot, Information, 09/13/2017 10:44:39
+IMF32, Connect to MDT, Information, 09/13/2017 10:44:39
+IMF32, Get MDT Settings, Information, 09/13/2017 10:44:39
+IMF32, Check if we should update the boot image, Information, 09/13/2017 10:44:39
+IMF32, Check if we should use MDTmonitoring, Information, 09/13/2017 10:44:39
+IMF32, Verify access to boot image, Information, 09/13/2017 10:44:39
+IMF32, Imagefactory 3.2 (Hyper-V), Information, 09/13/2017 10:48:44
+IMF32, Logfile is C:\Scripts\ImageFactoryV3ForHyper-V\log.txt, Information, 09/13/2017 10:48:44
+IMF32, XMLfile is C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/13/2017 10:48:44
+IMF32, Importing modules, Information, 09/13/2017 10:48:44
+IMF32, Reading from C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/13/2017 10:48:44
+IMF32, Verify Connection to DeploymentRoot, Information, 09/13/2017 10:48:44
+IMF32, Connect to MDT, Information, 09/13/2017 10:48:44
+IMF32, Get MDT Settings, Information, 09/13/2017 10:48:44
+IMF32, Check if we should update the boot image, Information, 09/13/2017 10:48:44
+IMF32, Check if we should use MDTmonitoring, Information, 09/13/2017 10:48:44
+IMF32, Verify access to boot image, Information, 09/13/2017 10:48:45
+IMF32, Imagefactory 3.2 (Hyper-V), Information, 09/13/2017 11:45:14
+IMF32, Logfile is C:\Scripts\ImageFactoryV3ForHyper-V\log.txt, Information, 09/13/2017 11:45:14
+IMF32, XMLfile is C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/13/2017 11:45:14
+IMF32, Importing modules, Information, 09/13/2017 11:45:14
+IMF32, Reading from C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/13/2017 11:45:14
+IMF32, Verify Connection to DeploymentRoot, Information, 09/13/2017 11:45:14
+IMF32, Connect to MDT, Information, 09/13/2017 11:45:14
+IMF32, Get MDT Settings, Information, 09/13/2017 11:45:14
+IMF32, Check if we should update the boot image, Information, 09/13/2017 11:45:14
+IMF32, Check if we should use MDTmonitoring, Information, 09/13/2017 11:45:15
+IMF32, Verify access to boot image, Information, 09/13/2017 11:45:15
+IMF32, Access to E:\MDTBuildLab\boot\LiteTouchPE_x86.iso is ok, Information, 09/13/2017 11:45:15
+IMF32, Get TaskSequences, Information, 09/13/2017 11:45:15
+IMF32, Sorry, could not find any TaskSequences to work with, Information, 09/13/2017 11:45:15
+IMF32, Imagefactory 3.2 (Hyper-V), Information, 09/13/2017 12:38:50
+IMF32, Logfile is C:\Scripts\ImageFactoryV3ForHyper-V\log.txt, Information, 09/13/2017 12:38:50
+IMF32, XMLfile is C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/13/2017 12:38:50
+IMF32, Importing modules, Information, 09/13/2017 12:38:50
+IMF32, Reading from C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/13/2017 12:38:50
+IMF32, Verify Connection to DeploymentRoot, Information, 09/13/2017 12:38:50
+IMF32, Connect to MDT, Information, 09/13/2017 12:38:50
+IMF32, Get MDT Settings, Information, 09/13/2017 12:38:50
+IMF32, Check if we should update the boot image, Information, 09/13/2017 12:38:50
+IMF32, Check if we should use MDTmonitoring, Information, 09/13/2017 12:38:50
+IMF32, Verify access to boot image, Information, 09/13/2017 12:38:50
+IMF32, Access to E:\MDTBuildLab\boot\LiteTouchPE_x86.iso is ok, Information, 09/13/2017 12:38:50
+IMF32, Get TaskSequences, Information, 09/13/2017 12:38:50
+IMF32, Found 1 TaskSequences to work on, Information, 09/13/2017 12:38:50
+IMF32, Get detailed info about the task sequences, Information, 09/13/2017 12:38:50
+IMF32, WIN10REF Build Windows 10 Reference Image 1.0, Information, 09/13/2017 12:38:50
+IMF32, Verify Connection to Hyper-V host, Information, 09/13/2017 12:38:50
+IMF32, BUILDHOST is not ready, will break, Information, 09/13/2017 12:39:07
+IMF32, Imagefactory 3.2 (Hyper-V), Information, 09/13/2017 12:42:00
+IMF32, Logfile is C:\Scripts\ImageFactoryV3ForHyper-V\log.txt, Information, 09/13/2017 12:42:00
+IMF32, XMLfile is C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/13/2017 12:42:00
+IMF32, Importing modules, Information, 09/13/2017 12:42:00
+IMF32, Reading from C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/13/2017 12:42:00
+IMF32, Verify Connection to DeploymentRoot, Information, 09/13/2017 12:42:00
+IMF32, Connect to MDT, Information, 09/13/2017 12:42:00
+IMF32, Get MDT Settings, Information, 09/13/2017 12:42:00
+IMF32, Check if we should update the boot image, Information, 09/13/2017 12:42:00
+IMF32, Check if we should use MDTmonitoring, Information, 09/13/2017 12:42:00
+IMF32, Verify access to boot image, Information, 09/13/2017 12:42:00
+IMF32, Access to E:\MDTBuildLab\boot\LiteTouchPE_x86.iso is ok, Information, 09/13/2017 12:42:00
+IMF32, Get TaskSequences, Information, 09/13/2017 12:42:00
+IMF32, Found 1 TaskSequences to work on, Information, 09/13/2017 12:42:00
+IMF32, Get detailed info about the task sequences, Information, 09/13/2017 12:42:00
+IMF32, WIN10REF Build Windows 10 Reference Image 1.0, Information, 09/13/2017 12:42:00
+IMF32, Verify Connection to Hyper-V host, Information, 09/13/2017 12:42:00
+IMF32, Upload boot image to Hyper-V host, Information, 09/13/2017 12:42:07
+IMF32, Remove old WIM files in the capture folder, Information, 09/13/2017 12:42:10
+IMF32, Create the VM's on Host, Information, 09/13/2017 12:42:10
+IMF32, Get BIOS Serialnumber from each VM and update the customsettings.ini file, Information, 09/13/2017 12:42:10
+IMF32, Start VM's on Host, Information, 09/13/2017 12:42:10
+IMF32, ConcurrentRunningVMs is set to: 1, Information, 09/13/2017 12:42:10
+IMF32, Wait until they are done, Information, 09/13/2017 12:42:11
+IMF32, Cleanup VMs, Information, 09/13/2017 12:42:11
+IMF32, Update CustomSettings.ini, Information, 09/13/2017 12:42:11
+IMF32, Cleanup MDT Monitoring data, Information, 09/13/2017 12:42:11
+IMF32, Show the WIM's, Information, 09/13/2017 12:42:11
+IMF32, Could not find E:\MDTBuildLab\Captures\WIN10REF.wim, something went wrong, sorry, Warning, 09/13/2017 12:42:11
+IMF32, The script took 0:Days 0:Hours 0:Minutes to complete., Information, 09/13/2017 12:42:11
+IMF32, Imagefactory 3.2 (Hyper-V), Information, 09/13/2017 12:42:39
+IMF32, Logfile is C:\Scripts\ImageFactoryV3ForHyper-V\log.txt, Information, 09/13/2017 12:42:39
+IMF32, XMLfile is C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/13/2017 12:42:39
+IMF32, Importing modules, Information, 09/13/2017 12:42:39
+IMF32, Reading from C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/13/2017 12:42:40
+IMF32, Verify Connection to DeploymentRoot, Information, 09/13/2017 12:42:40
+IMF32, Connect to MDT, Information, 09/13/2017 12:42:40
+IMF32, Connected to E:\MDTBuildLab, Information, 09/13/2017 12:42:40
+IMF32, Get MDT Settings, Information, 09/13/2017 12:42:40
+IMF32, Check if we should update the boot image, Information, 09/13/2017 12:42:40
+IMF32, Check if we should use MDTmonitoring, Information, 09/13/2017 12:42:40
+IMF32, Verify access to boot image, Information, 09/13/2017 12:42:40
+IMF32, Access to E:\MDTBuildLab\boot\LiteTouchPE_x86.iso is ok, Information, 09/13/2017 12:42:40
+IMF32, Get TaskSequences, Information, 09/13/2017 12:42:40
+IMF32, Found 1 TaskSequences to work on, Information, 09/13/2017 12:42:40
+IMF32, Get detailed info about the task sequences, Information, 09/13/2017 12:42:40
+IMF32, WIN10REF Build Windows 10 Reference Image 1.0, Information, 09/13/2017 12:42:40
+IMF32, Verify Connection to Hyper-V host, Information, 09/13/2017 12:42:40
+IMF32, Upload boot image to Hyper-V host, Information, 09/13/2017 12:43:01
+IMF32, Remove old WIM files in the capture folder, Information, 09/13/2017 12:43:03
+IMF32, Create the VM's on Host, Information, 09/13/2017 12:43:03
+IMF32, Get BIOS Serialnumber from each VM and update the customsettings.ini file, Information, 09/13/2017 12:43:09
+IMF32, Start VM's on Host, Information, 09/13/2017 12:43:10
+IMF32, ConcurrentRunningVMs is set to: 1, Information, 09/13/2017 12:43:10
+IMF32, Imagefactory 3.2 (Hyper-V), Information, 09/13/2017 13:00:35
+IMF32, Logfile is C:\Scripts\ImageFactoryV3ForHyper-V\log.txt, Information, 09/13/2017 13:00:35
+IMF32, XMLfile is C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/13/2017 13:00:35
+IMF32, Importing modules, Information, 09/13/2017 13:00:35
+IMF32, Reading from C:\scripts\ImageFactoryV3ForHyper-V\ImageFactoryV3.xml, Information, 09/13/2017 13:00:36
+IMF32, Verify Connection to DeploymentRoot, Information, 09/13/2017 13:00:36
+IMF32, Connect to MDT, Information, 09/13/2017 13:00:36
+IMF32, Connected to E:\MDTBuildLab, Information, 09/13/2017 13:00:36
+IMF32, Get MDT Settings, Information, 09/13/2017 13:00:36
+IMF32, Check if we should update the boot image, Information, 09/13/2017 13:00:36
+IMF32, Check if we should use MDTmonitoring, Information, 09/13/2017 13:00:36
+IMF32, Verify access to boot image, Information, 09/13/2017 13:00:36
+IMF32, Access to E:\MDTBuildLab\boot\LiteTouchPE_x86.iso is ok, Information, 09/13/2017 13:00:36
+IMF32, Get TaskSequences, Information, 09/13/2017 13:00:36
+IMF32, Found 1 TaskSequences to work on, Information, 09/13/2017 13:00:36
+IMF32, Get detailed info about the task sequences, Information, 09/13/2017 13:00:36
+IMF32, WIN10REF Build Windows 10 Reference Image 1.0, Information, 09/13/2017 13:00:36
+IMF32, Verify Connection to Hyper-V host, Information, 09/13/2017 13:00:36
+IMF32, Upload boot image to Hyper-V host, Information, 09/13/2017 13:00:53
+IMF32, Remove old WIM files in the capture folder, Information, 09/13/2017 13:00:54
+IMF32, Create the VM's on Host, Information, 09/13/2017 13:00:54
+IMF32, Get BIOS Serialnumber from each VM and update the customsettings.ini file, Information, 09/13/2017 13:00:56
+IMF32, Start VM's on Host, Information, 09/13/2017 13:00:57
+IMF32, ConcurrentRunningVMs is set to: 1, Information, 09/13/2017 13:00:57

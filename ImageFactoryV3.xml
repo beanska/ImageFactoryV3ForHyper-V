@@ -1,15 +1,16 @@
 ﻿<Settings>
-  <ConcurrentRunningVMs>2</ConcurrentRunningVMs>
+  <ConcurrentRunningVMs>1</ConcurrentRunningVMs>
  <MDT>
-  <DeploymentShare>D:\MDTBuildLab</DeploymentShare>
+  <DeploymentShare>E:\MDTBuildLab</DeploymentShare>
   <RefTaskSequenceFolderName>REF</RefTaskSequenceFolderName>
+  <LiteTouchISOName>x64</LiteTouchISOName>
  </MDT>
  <HyperV>
   <StartUpRAM>4</StartUpRAM>
   <VLANID>0</VLANID>
-  <Computername>DEMOHOST03</Computername>
-  <SwitchName>UplinkSwitchNAT</SwitchName>
-  <VMLocation>D:\VMs</VMLocation>
+  <Computername>68wlkg178798</Computername>
+  <SwitchName>EXT1</SwitchName>
+  <VMLocation>C:\Users\Public\Documents\Hyper-V\Virtual hard disks</VMLocation>
   <ISOLocation>C:\ISO</ISOLocation>
   <VHDSize>80</VHDSize>
   <NoCPU>2</NoCPU>
